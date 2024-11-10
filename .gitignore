@@ -1,0 +1,50 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+
+# Environment variables
+*.env
+
+# IDE configuration files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Byte-compiled, optimized, or compiled Python files
+*.pyo
+*.pyd
+
+# Logs and runtime data
+*.log
+
+# MacOS metadata files
+.DS_Store
+
+# Pygame build artifacts
+build/
+dist/
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Any compiled Python files
+*.so
+
+# Unit test / coverage results
+coverage.xml
+*.cover
+*.coverage
+
+# OS generated files
+Thumbs.db
+desktop.ini
